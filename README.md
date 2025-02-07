@@ -50,11 +50,5 @@ Explain in detail your test plan, test cases and implement the automated tests p
 Create a pull request with your solution and provide a detailed document for your solution!
 
 
-
-
-
-
 ## Contact
-For any inquiries or feedback, please contact the development team at evansachie01@gmail.com
-
-Feel free to update and customize this README file according to your specific project requirements and add relevant sections such as architecture, installation instructions, screenshots, etc.
+For any inquiries or feedback, please contact the us at i.papadakis@snappibank.com
