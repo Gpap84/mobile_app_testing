@@ -51,4 +51,4 @@ Create a pull request with your solution and provide a detailed document for you
 
 
 ## Contact
-For any inquiries or feedback, please contact the us at i.papadakis@snappibank.com
+For any inquiries or feedback, please contact us at i.papadakis@snappibank.com
